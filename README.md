@@ -42,8 +42,10 @@ The dataset spans a wide variety of anatomical structures to encourage **cross-o
 
 ## 📢 Note on Data Availability
 Due to size limitations on GitHub, we only provide partial subsets of Mgaze-US, including Kidney, Thyroid, and Liver.
-For access to the complete dataset, please visit our release on HuggingFace Datasets: 👉 xxx
+For access to the complete dataset, please visit our release on HuggingFace Datasets: 👉 [HAN4BME/MGaze-US
+](https://huggingface.co/datasets/HAN4BME/MGaze-US)
 
+For any questions, you can reach me at [taiyuhan4bme@tsinghua.email.cn].
 ---
 
 ## 📑 Citation
