@@ -45,7 +45,7 @@ Due to size limitations on GitHub, we only provide partial subsets of Mgaze-US, 
 For access to the complete dataset, please visit our release on HuggingFace Datasets: 👉 [HAN4BME/MGaze-US
 ](https://huggingface.co/datasets/HAN4BME/MGaze-US)
 
-For any questions, you can reach me at [taiyuhan4bme@tsinghua.email.cn].
+For any questions, you can reach me at .
 ---
 
 ## 📑 Citation
